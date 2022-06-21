@@ -8,4 +8,4 @@ This project is part of The App Brewery's Complete Futter Development Bootcamp. 
 
 ## The Main Goal
 
-The main goal of this project is to apply basic knowledge about OOP in Dart and other topics in Flutter such as layout, widget positioning.
+The main goal of this project is to apply basic knowledge about OOP in Dart and other topics in Flutter such as layout, widget positioning, and the basic about the concept of state.
